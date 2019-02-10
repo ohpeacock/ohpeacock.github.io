@@ -1,0 +1,41 @@
+portfolio rebuild: need 3 projects
+
+Navigation: about work hire me
+
+*** List best projects first ***
+- list basic information about each project (purpose of the project, objective, approach, project duration, group members, your role, links, final product show case)
+- explain the UX Process (research, ideation, wireframe, design, prototype)
+- optional: working prototype demo, conclusion (what did I learn?)
+
+Rise Mobile App:
+- System Scope and Goals
+- Users:
+	User Group Description/Personas
+- Task Analysis:
+	Hierarchical Description/Use Cases/Scenarios of Use/Task Characteristics
+- Design Decisions
+- Prototype
+
+CarolinaHeartHealth.org:
+- version 1
+- version 2
+- sitemap 
+- taskflow
+- user survey/user testing
+
+DarkChocolateAlchemist: 
+- version 1
+- version 2
+- sitemap 
+- taskflow
+- user survey/user testing
+
+**** About Section ****
+Short description of who I am & what kind of job I am looking for (summarize this throughout the website)
+Hobbies
+Principles as a Professional
+Short video or picture?
+
+
+What kind of skills do I have that will be useful for this role?
+What do I lack in terms of skill or knowledge?
